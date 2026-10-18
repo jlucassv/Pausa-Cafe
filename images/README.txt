@@ -1,0 +1,1 @@
+prototipo-pausa-cafe.svg é uma referência visual vetorial das três telas principais. Importe no Figma para usar como referência e, para um protótipo com elementos editáveis e interações, reconstrua os componentes em frames nativos e conecte as telas no modo Prototype.
