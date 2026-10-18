@@ -52,7 +52,8 @@ O protótipo contempla catálogo, detalhe do produto, sacola e confirmação do 
 - `images/`: referências visuais.
 
 ## Protótipo Figma
-Adicionar aqui o link de visualização do protótipo publicado no Figma.
+
+https://www.figma.com/design/WDYC7BMyqqXuKlvIFZKZFf/Pausa-Caf%C3%A9?node-id=0-1&t=mnteP1GK1iphdt39-1
 
 ## Próximas melhorias
 - Realizar testes com usuários e registrar os resultados.
